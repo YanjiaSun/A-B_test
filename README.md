@@ -1,8 +1,7 @@
 # A-B_test
 对于是否为Udacity主流程增加筛选器的问题，设计A/B测试、分析其结果，并提供一个高层次的后续实验。
 
-## 项目展示
-http://lilyalove.com/A-B_test/AB_Test.html
+
 
 ## 实验中涉及内容
 1. 实验设计
